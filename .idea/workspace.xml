@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b354325d-ac94-44e5-83bf-d0e8b1e7e78d" name="Changes" comment="feat: Initializing the repository (C-1)" />
+    <list default="true" id="b354325d-ac94-44e5-83bf-d0e8b1e7e78d" name="Changes" comment="chore: Installing packages and node modules (C-2)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670364135068</updated>
       <workItem from="1670364136828" duration="1086000" />
-      <workItem from="1670365238841" duration="489000" />
+      <workItem from="1670365238841" duration="845000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Initializing the repository (C-1)">
       <created>1670365721190</created>
@@ -66,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670365721190</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chore: Installing packages and node modules (C-2)">
+      <created>1670365972718</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670365972718</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Initializing the repository (C-1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Initializing the repository (C-1)" />
+    <MESSAGE value="chore: Installing packages and node modules (C-2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: Installing packages and node modules (C-2)" />
   </component>
 </project>
