@@ -13,6 +13,7 @@
   "dependencies": {
     "@angular-eslint/eslint-plugin": "^15.1.0",
     "@angular/animations": "^14.1.0",
+    "@angular/cdk": "^15.1.0",
     "@angular/common": "^14.1.0",
     "@angular/compiler": "^14.1.0",
     "@angular/core": "^14.1.0",
@@ -20,6 +21,9 @@
     "@angular/platform-browser": "^14.1.0",
     "@angular/platform-browser-dynamic": "^14.1.0",
     "@angular/router": "^14.1.0",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.3",
+    "express": "^4.18.2",
     "node": "^19.2.0",
     "prettier": "^2.8.1",
     "rxjs": "~7.5.0",
