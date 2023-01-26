@@ -1,9 +1,14 @@
+@import "variables";
 :host {
-  background-color: black;
+  width: 100%;
+  height: 100%;
   .landing-cover {
+    z-index: map-get($overlays, componentBackround);
+    position: absolute;
     width: 100%;
-    height: 100vh;
+    height: 100%;
     object-fit: cover;
+    max-height: 960px;
   }
 }
 

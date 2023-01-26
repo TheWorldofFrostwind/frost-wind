@@ -2,11 +2,18 @@
 @import '../../node_modules/bootstrap-icons/font/bootstrap-icons.css';
 
 html, body {
-  background-color: black;
   padding: 0;
   margin: 0;
 }
 
 * {
   font-family: Lato, sans-serif;
+}
+
+:root {
+  ---header-height: 6.5rem;
+}
+
+.header-offset {
+  padding-top: var(---header-height);
 }
