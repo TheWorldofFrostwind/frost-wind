@@ -21,7 +21,5 @@ export class LandingPageComponent implements OnInit {
         this.isMobile = isMobile;
         this.isDesktop = !isMobile;
       });
-    console.log(this.isMobile);
-    console.log(this.isDesktop);
   }
 }
