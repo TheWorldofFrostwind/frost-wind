@@ -18,10 +18,10 @@
     color: white;
     font-size: 5rem;
     font-weight: bold;
-    //max-height: 960px;
     vertical-align: middle;
     justify-content: center;
     object-fit: cover;
+    animation: fadeIn .5s ease-in forwards;
   }
 
   .landing-cover-right {
@@ -31,7 +31,8 @@
     font-weight: lighter;
     line-height: 4rem;
     font-style: italic;
-    max-height: 960px;
+    animation: fadeIn 2s ease-in forwards;
+    border-left: 1px solid white;
   }
 
   .cover-image-text-container {
@@ -54,16 +55,5 @@
     height: 100%;
     object-fit: cover;
     max-height: 100vh;
-  }
-}
-
-@keyframes appearIn {
-  0% {
-    opacity: 0.75;
-    transform: translateY(-10px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
   }
 }
