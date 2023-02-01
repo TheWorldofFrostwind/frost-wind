@@ -9,7 +9,7 @@
   }
 
   .container {
-    height: 100%;
+    height: 100vh;
     overflow-y: hidden;
   }
 
@@ -41,8 +41,6 @@
     left: 0;
     width: 100%;
     height: fit-content;
-    //height: 100vh;
-    //height: calc(960px - var(---header-height));
     max-height: 700px;
     display: grid;
     grid-template-columns: 1fr 1fr;
